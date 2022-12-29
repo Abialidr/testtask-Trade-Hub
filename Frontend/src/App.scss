@@ -1,0 +1,18 @@
+.table-popup{
+  &:last-child{
+    .popup-main{
+      top: -198px !important;
+    }
+  } 
+  &:nth-last-child(2){
+    .popup-main{
+      top: -198px !important;
+    }
+  } 
+  &:nth-last-child(3){
+    .popup-main{
+      top: -198px !important;
+    }
+  } 
+}
+
