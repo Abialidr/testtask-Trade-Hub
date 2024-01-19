@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Trade-Hub-test-task/static/css/main.a6a92d66.css",
-    "main.js": "/Trade-Hub-test-task/static/js/main.be8a1622.js",
-    "static/js/787.0895c116.chunk.js": "/Trade-Hub-test-task/static/js/787.0895c116.chunk.js",
+    "main.css": "/Trade-Hub-test-task/static/css/main.20f42fad.css",
+    "main.js": "/Trade-Hub-test-task/static/js/main.d91816e7.js",
+    "static/js/787.ec78c698.chunk.js": "/Trade-Hub-test-task/static/js/787.ec78c698.chunk.js",
     "index.html": "/Trade-Hub-test-task/index.html",
-    "main.a6a92d66.css.map": "/Trade-Hub-test-task/static/css/main.a6a92d66.css.map",
-    "main.be8a1622.js.map": "/Trade-Hub-test-task/static/js/main.be8a1622.js.map",
-    "787.0895c116.chunk.js.map": "/Trade-Hub-test-task/static/js/787.0895c116.chunk.js.map"
+    "main.20f42fad.css.map": "/Trade-Hub-test-task/static/css/main.20f42fad.css.map",
+    "main.d91816e7.js.map": "/Trade-Hub-test-task/static/js/main.d91816e7.js.map",
+    "787.ec78c698.chunk.js.map": "/Trade-Hub-test-task/static/js/787.ec78c698.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6a92d66.css",
-    "static/js/main.be8a1622.js"
+    "static/css/main.20f42fad.css",
+    "static/js/main.d91816e7.js"
   ]
 }
